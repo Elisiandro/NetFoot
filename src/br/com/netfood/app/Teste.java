@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Elisiandro
+ * @author Elisiandro Duarte
  */
 public class Teste {
 
