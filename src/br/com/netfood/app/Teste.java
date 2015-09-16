@@ -56,7 +56,7 @@ public class Teste {
                         System.out.print("\nCPF: ");
                         String cpf = valor.next();
 
-                        //listGarcon.add(new Garcon(nome, salario, cpf));
+                        //listGarcon.add(new Garcon(nome, salario, cpf)); g
 
                         break;
                     case 2:

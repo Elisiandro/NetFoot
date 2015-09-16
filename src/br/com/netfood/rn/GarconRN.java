@@ -13,7 +13,7 @@ public class GarconRN {
         garconBD = new GarconBD();
     }
 
-    public void salvar(Garcon garcon) {
+    public void salvar(Garcon garcon) { 
         garconRNVal.validarSalvar(garcon);
         garconBD.salvar(garcon);
     }

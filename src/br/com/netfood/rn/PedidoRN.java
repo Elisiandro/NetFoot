@@ -13,7 +13,7 @@ public class PedidoRN {
         pedidoBD = new PedidoBD();
     }
 
-    public void salvar(Pedido pedido) {
+    public void salvar(Pedido pedido) { 
         pedidoRNVal.validarSalvar(pedido);
         pedidoBD.salvar(pedido);
     }

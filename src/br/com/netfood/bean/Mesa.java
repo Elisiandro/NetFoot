@@ -8,7 +8,7 @@ package br.com.netfood.bean;
 /**
  *
  * @author Elisiandro
- */
+ */ 
 public class Mesa {
    
     private int id;

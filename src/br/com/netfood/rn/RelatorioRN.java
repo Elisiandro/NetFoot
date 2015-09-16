@@ -13,7 +13,7 @@ public class RelatorioRN {
         relatorioBD = new RelatorioBD();
     }
 
-    public void salvar(Relatorio relatorio) {
+    public void salvar(Relatorio relatorio) { 
         relatorioRNVal.validarSalvar(relatorio);
         relatorioBD.salvar(relatorio);
     }

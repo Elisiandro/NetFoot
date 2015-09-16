@@ -15,7 +15,7 @@ public class MesaBD {
     
     public void salvar(Mesa mesa)
     {
-        System.out.println("Gravado: " + mesa);
+        System.out.println("Gravado: " + mesa);//
     }
     public void inserir(Mesa mesa)
     {

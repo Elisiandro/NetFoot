@@ -15,7 +15,7 @@ public class GarconBD {
     
     public void salvar(Garcon garcon)
     {
-        System.out.println("Gravado: " + garcon);
+        System.out.println("Gravado: " + garcon); // ss
     }
     public void inserir(Garcon garcon)
     {

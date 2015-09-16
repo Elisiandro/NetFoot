@@ -6,7 +6,7 @@
 package br.com.netfood.bean;
 
 /**
- *
+ * 
  * @author Elisiandro
  */
 

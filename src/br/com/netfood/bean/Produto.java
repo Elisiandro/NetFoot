@@ -6,7 +6,7 @@
 package br.com.netfood.bean;
 
 import java.util.Objects;
-
+ 
 /**
  *
  * @author Elisiandro

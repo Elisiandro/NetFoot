@@ -13,7 +13,7 @@ public class ProdutoRN {
         produtoBD = new ProdutoBD();
     }
 
-    public void salvar(Produto produto) {
+    public void salvar(Produto produto) { 
         produtoRNVal.validarSalvar(produto);
         produtoBD.salvar(produto);
     }

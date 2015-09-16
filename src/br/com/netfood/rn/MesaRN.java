@@ -13,7 +13,7 @@ public class MesaRN {
         mesaBD = new MesaBD();
     }
 
-    public void salvar(Mesa mesa) {
+    public void salvar(Mesa mesa) { 
         mesaRNVal.validarSalvar(mesa);
         mesaBD.salvar(mesa);
     }

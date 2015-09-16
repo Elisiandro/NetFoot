@@ -2,7 +2,7 @@
 
 package br.com.netfood.rnval;
 
-import br.com.netfood.bean.Garcon;
+import br.com.netfood.bean.Garcon; 
 
 public class GarconRNval {
 
