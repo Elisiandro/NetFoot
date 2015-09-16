@@ -65,7 +65,7 @@ public class Teste {
                         int quantidade = valor.nextInt();
 
                         
-                        //listMesas.add(new Mesa(quantidade));
+                        //listMesas.add(new Mesa(quantidade)); j
 
                         break;
                     case 3:
