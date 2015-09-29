@@ -3,7 +3,7 @@
  * Data 04/09/2015
  * 
  */
-package br.com.netfood.app;
+package br.com.netfood.app; 
 
 import br.com.netfood.bean.TipoProduto;
 import br.com.netfood.bean.Garcon;
